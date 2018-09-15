@@ -1,5 +1,10 @@
-const aquarius = require("../../assets/aquarius-1.svg");
-const aries = require("../../assets/aries-1.svg");
+const images = [
+    {original: require("../../assets/aquarius-1.svg"),
+     description: "This is image one"
+    },
+    {original: require("../../assets/aries-1.svg"),
+     description: "this is image two"
+    }
+];
 
-const images = [{original: aquarius},{original:aries}];
 export default images;
