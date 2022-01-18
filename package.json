@@ -5,8 +5,8 @@
   "dependencies": {
     "@material-ui/core": "^1.4.3",
     "ajv": "^6.5.3",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-image-gallery": "^0.8.11",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
